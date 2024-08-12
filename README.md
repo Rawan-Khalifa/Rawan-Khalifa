@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Rawan Khalifa</h1>
 <h3 align="center">An aspiring AI engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rawan-khalifa&label=Profile%20views&color=0e75b6&style=flat" alt="rawan-khalifa" /> </p>
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/bb54e6a9f4d87a0394e13721df2e9fde5e339520b0e14a5ac42dde25215809ed/68747470733a2f2f6d656469612e74656e6f722e636f6d2f505039763756497336523441414141642f7363616c65722d6372656174652d696d706163742e676966">
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c5aaf63548326f1165dde4929c617f06de12bd37e3107ea86c535a3d215f74c9/68747470733a2f2f7777772e61726b61736f667477617265732e636f6d2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323031382f31312f6865616465725f62616e6e65722e6a7067”>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rawan-khalifa&label=Profile%20views&color=0e75b6&style=flat" alt="rawan-khalifa" /> </p>
 
 - 🔭 I’m currently working on **Building Various Web Apps involving AI**
 
