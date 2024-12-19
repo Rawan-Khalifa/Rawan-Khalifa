@@ -3,19 +3,13 @@
 <h1 align="center">Hi 👋, I'm Rawan Khalifa</h1>
 <h3 align="center">An aspiring AI engineer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/bb54e6a9f4d87a0394e13721df2e9fde5e339520b0e14a5ac42dde25215809ed/68747470733a2f2f6d656469612e74656e6f722e636f6d2f505039763756497336523441414141642f7363616c65722d6372656174652d696d706163742e676966">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rawan-khalifa&label=Profile%20views&color=0e75b6&style=flat" alt="rawan-khalifa" /> </p>
 
 - 🔭 I’m currently working on **Building Various Web Apps involving AI**
 
 - 🌱 I’m currently learning **Deep Learning, MERN stack**
 
-- 👯 I’m looking to collaborate on **Deep Learning Projects particularly NLP**
-
-- 🤝 I’m looking for help with **Image Segmentation in Brain MRIs**
-
-- 💬 Ask me about **NLP, Tech in Healthcare: Intelligent Imaging**
+- 👯 I’m looking to collaborate on **Deep Learning Projects**
 
 - 📫 How to reach me **rawan@uni.minerva.edu**
 
