@@ -18,7 +18,21 @@ How to reach me **rawan@uni.minerva.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rawan-walid-5521b11a7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rawan-walid-5521b11a7" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rawan-khalifa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rawan-khalifa" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/rawan-walid-5521b11a7" target="blank">
+    <img align="center" 
+         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+         alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/rawan-khalifa" target="blank">
+    <img align="center" 
+         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
+         alt="LeetCode" height="30" width="40" />
+  </a>
+  <a href="https://x.com/khalifa_ra10350" target="blank">
+    <img align="center"
+         src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg"
+         alt="X" height="30" width="30" />
+  </a>
 </p>
+
 
